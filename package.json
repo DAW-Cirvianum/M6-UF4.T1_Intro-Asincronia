@@ -1,0 +1,26 @@
+{
+  "name": "act2_js_basics",
+  "version": "1.0.0",
+  "description": "Les \"Kata's\" son demostracions de moviments del Judo. Són les habilitats, \"skills\", que en el nostre cas ens han d'ajudar a convertir-nos en programadors web!",
+  "main": "script.js",
+  "type": "module",
+  "scripts": {
+    "test": "jest --watchAll=false"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@babel/core": "^7.25.2",
+    "@babel/plugin-transform-runtime": "^7.25.4",
+    "@babel/preset-env": "^7.25.4",
+    "@babel/preset-react": "^7.24.7",
+    "@babel/preset-typescript": "^7.24.7",
+    "babel-jest": "^29.7.0",
+    "eslint": "^9.10.0",
+    "eslint-config-prettier": "^9.1.0",
+    "globals": "^15.9.0",
+    "jest": "^29.7.0",
+    "prettier": "^3.3.3"
+  }
+}
